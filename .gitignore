@@ -1,0 +1,67 @@
+# Built application files
+*.apk
+*.aar
+*.ap_
+*.aab
+
+# Files for the ART/Dalvik VM
+*.dex
+
+# Java class files
+*.class
+
+# Generated files
+bin/
+gen/
+out/
+
+# Gradle files
+.gradle/
+build/
+**/build/
+
+# Local configuration file (sdk path, etc)
+local.properties
+
+# Log files
+*.log
+
+# Android Studio
+*.iml
+.idea/
+*.iws
+
+# Signing files
+*.jks
+*.keystore
+
+# Google Services (contains API keys)
+google-services.json
+
+# Android Profiling
+*.hprof
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+ehthumbs.db
+Desktop.ini
+
+# Linux
+*~
+
+# External native build
+.externalNativeBuild/
+.cxx/
+
+# Captures (Android Studio memory/CPU profiling)
+captures/
+
+# Claude Code
+.claude/
+
+# Credentials and secrets
+*.env
+credentials.json
